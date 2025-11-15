@@ -52,7 +52,7 @@ def check_spelling(text_file, dict_file):
 
 def main():
     filename = input("Enter file name: ").strip()
-    check_spelling(filename, "words")
+    check_spelling(filename, "words.txt")
 
 
 if __name__ == "__main__":
