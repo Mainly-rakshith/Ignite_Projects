@@ -1,4 +1,4 @@
-# Ignite Projects
+# Ignite Projects Semester 1
 
 ## Overview
 This repository contains all programming assignments completed for PROG1003.  
